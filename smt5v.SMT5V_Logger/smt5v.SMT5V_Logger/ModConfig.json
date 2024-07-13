@@ -1,0 +1,29 @@
+{
+  "ModId": "smt5v.SMT5V_Logger",
+  "ModName": "SMT5V Logger",
+  "ModAuthor": "Can'tThinkofBetterName",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Restores Developer Log Statements",
+  "ModDll": "smt5v.SMT5V_Logger.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/smt5v.SMT5V_Logger.dll",
+  "ModR2RManagedDll64": "x64/smt5v.SMT5V_Logger.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "smt5v.SMT5V_Logger.ReleaseMetadata.json",
+  "PluginData": {
+    "GameBanana": {
+      "ItemType": "Mod",
+      "ItemId": 527742
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "reloaded.sharedlib.hooks",
+    "Reloaded.Memory.SigScan.ReloadedII"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [ "smt5v-win64-shipping.exe" ],
+  "ProjectUrl": ""
+}
